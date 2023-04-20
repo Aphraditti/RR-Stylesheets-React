@@ -2,4 +2,8 @@
   text-align: center;
 }
 
+.container {
+  padding: 5rem;
+  background-color: blueviolet;
+}
 
